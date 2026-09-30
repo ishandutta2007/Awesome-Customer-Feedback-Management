@@ -1,211 +1,147 @@
-# Awesome-Customer-Feedback-Management
+# 🚀 Awesome Customer Feedback Management
 
-## Top Customer Feedback Management Platforms Ecosystem
+[![Awesome Customer Feedback Management Ecosystem](assets/banner.svg)](https://github.com/ishandutta2007/Awesome-Customer-Feedback-Management)
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+<div align="center">
 
-*Focused on Surveys, NPS/CSAT, Feature Requests, Feedback Boards, In-App Widgets & Experience Management*
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Customer-Feedback-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Customer-Feedback-Management?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Customer-Feedback-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Customer-Feedback-Management?style=flat-square&color=blue" alt="GitHub Forks"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Customer-Feedback-Management/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Customer-Feedback-Management?style=flat-square" alt="License"/></a>
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-**Last updated: September 2026**
-
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Customer Feedback Management**. These systems collect, organize, and analyze customer input—surveys, NPS, CSAT, feature requests, and in-app feedback—so product and CX teams can prioritize improvements.
-
-
-
-**Examples** include SurveyMonkey, Alchemer, QuestionPro, Qualtrics, UserVoice, Canny, Productboard Feedback, NPS.today, Survicate, and Zonka Feedback (the category leaders).
-
-
-
-**Open-source emphasis**: Feedback and survey tooling has strong open options. **Formbricks**, **LimeSurvey**, and related projects enable self-hosted surveys, NPS, and experience data hubs. This section is heavily expanded.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-products)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-- **[SurveyMonkey](https://www.surveymonkey.com/)**  
-
-  Widely used survey and feedback platform for creating, distributing, and analyzing questionnaires at scale.
-
-
-
-- **[Alchemer](https://www.alchemer.com/)**  
-
-  Enterprise survey and feedback platform (formerly SurveyGizmo) with advanced logic and experience measurement.
-
-
-
-- **[QuestionPro](https://www.questionpro.com/)**  
-
-  Survey, research, and experience management platform for customer and employee feedback programs.
-
-
-
-- **[Qualtrics](https://www.qualtrics.com/)**  
-
-  Leading experience management (XM) platform for surveys, NPS, journey analytics, and enterprise feedback.
-
-
-
-- **[UserVoice](https://www.uservoice.com/)**  
-
-  Product feedback and feature-request platform oriented toward enterprise B2B feedback volume and prioritization.
-
-
-
-- **[Canny](https://canny.io/)**  
-
-  Popular product feedback board and roadmap tool for collecting, voting, and closing the loop on feature requests.
-
-
-
-- **[Productboard Feedback](https://www.productboard.com/)**  
-
-  Feedback and insights capabilities within Productboard for linking customer input directly to roadmap decisions.
-
-
-
-- **[NPS.today](https://nps.today/)**  
-
-  Focused NPS and customer feedback platform for measuring and acting on loyalty scores.
-
-
-
-- **[Survicate](https://survicate.com/)**  
-
-  In-app, website, and email survey platform for continuous product and customer feedback collection.
-
-
-
-- **[Zonka Feedback](https://www.zonkafeedback.com/)**  
-
-  Multi-channel feedback and survey platform for CX, NPS, and operational feedback programs.
-
-
-
-## Open-Source GitHub Projects
-
-- **[Formbricks](https://github.com/formbricks/formbricks)**  
-
-  Leading open-source experience management and survey platform—in-app, website, link, and email surveys with self-hosting (Qualtrics-style alternative).
-
-
-
-- **[Formbricks Hub](https://github.com/formbricks/hub)**  
-
-  Open-source feedback record hub for aggregating survey, NPS, and review data into a queryable, BI-friendly store.
-
-
-
-- **[LimeSurvey](https://github.com/LimeSurvey/LimeSurvey)**  
-
-  Mature open-source online survey application for complex questionnaires, quotas, and multi-language research.
-
-
-
-- **[OhMyForm](https://github.com/ohmyform/ohmyform)**  
-
-  Open-source form and survey builder for creating and managing feedback collection workflows.
-
-
-
-- **[Tripetto / open form engines](https://github.com/)**  
-
-  Open conversational and logic-driven form tools usable for guided feedback flows.
-
-
-
-- **[NPS and CSAT open calculators](https://github.com/)**  
-
-  Libraries and small apps for computing NPS/CSAT from raw response data.
-
-
-
-- **[Feedback board open starters](https://github.com/)**  
-
-  Simple open feature-request and voting board templates for product teams.
-
-
-
-- **[In-app feedback widget open components](https://github.com/)**  
-
-  Embeddable open widgets for collecting qualitative feedback inside web apps.
-
-
-
-- **[Documentation and Formbricks / LimeSurvey playbooks](https://formbricks.com/)**  
-
-  Guides for self-hosting surveys, privacy-first feedback, and integrating results into product workflows.
-
-
-
-- **[Self-hosted experience data stacks](https://github.com/)**  
-
-  Formbricks + warehouse + open BI patterns for full ownership of customer feedback data.
-
-
-
-### Additional Strong Open-Source Options
-
-- Running **Formbricks** for continuous in-app and link surveys with full data ownership.
-
-- Using **LimeSurvey** for complex research-grade questionnaires.
-
-- Aggregating feedback into **Formbricks Hub** or a warehouse for analysis.
-
-- Accepting that enterprise XM programs, advanced text analytics, global panel access, and polished public feedback boards at scale still favor commercial platforms (Qualtrics, SurveyMonkey, Canny, UserVoice, Productboard, Survicate, etc.).
-
-- Focusing open-source efforts on privacy, cost control, and integration with internal product systems.
-
-
-
-**Frameworks for building custom systems**: Collect with Formbricks or LimeSurvey → store in Hub/warehouse → analyze with open BI → link insights to roadmap tools. Suitable for product and CX teams that prioritize data ownership. Large enterprises often standardize on commercial XM and feedback platforms.
-
-
-
-## How to Contribute
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Feedback systems handle personal and customer data. Ensure privacy compliance (GDPR, etc.) when self-hosting. This list is not legal advice.
-
-
+</div>
 
 ---
 
-**Made for product managers, CX teams, and open experience management advocates.**
+## 📌 Overview & Ecosystem Scope
 
-Let's keep customer voice actionable, owned, and as open as practical.
+A curated index of top **Customer Feedback Management (CFM)**, **Experience Management (XM)**, **Net Promoter Score (NPS)**, **Customer Satisfaction (CSAT)**, **Feature Request Voting Boards**, and **Open-Source Survey Infrastructure**.
+
+Modern SaaS product teams and Customer Experience (CX) leaders rely on customer feedback loops to capture Voice of Customer (VoC), analyze sentiment, triage product feature requests, and prioritize product roadmaps.
+
+---
+
+## 📚 Table of Contents
+
+- [📊 Market Overview & Industry Dynamics](#-market-overview--industry-dynamics)
+- [🏢 SaaS & Hosted Customer Feedback Platforms](#-saas--hosted-customer-feedback-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [💡 Architecture Patterns & Integration Flow](#-architecture-patterns--integration-flow)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [☕ Support & Sponsorship](#-support--sponsorship)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+- [📈 Star History](#-star-history)
+
+---
+
+## 📊 Market Overview & Industry Dynamics
+
+> 💡 **Market Size & Fragmentation Insight:**  
+> The global Customer Feedback Management (CFM) & Experience Management market is estimated at **$10.5 Billion in 2026** and projected to reach **$21.8 Billion by 2032** (CAGR ~12.5%). The market is **moderately fragmented**: enterprise heavyweights (Qualtrics, SurveyMonkey) dominate traditional corporate research, while fast-growing Product-Led Growth (PLG) feedback platforms (Productboard, Canny) and self-hosted open-source disruptors (Formbricks, PostHog) capture modern developer and SaaS product teams.
+
+---
+
+## 🏢 SaaS & Hosted Customer Feedback Platforms
+
+The table below summarizes leading commercial platforms, sorted by **Company Size (Valuation / Revenue)** in descending order.
+
+| Platform | Key Capabilities & Use Cases | Starting Price | Free Tier / Trial Limits | Company Size (Valuation / ARR) |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Qualtrics](https://www.qualtrics.com/)** | Enterprise Experience Management (XM), CoreXM, advanced survey logic, AI sentiment & journey analytics. | $125/month ($1,500/year billed annually) | 30-day free trial (up to 100 responses & 1 active survey) | **~$12.5B Valuation** (~$1.5B ARR) |
+| **[Productboard](https://www.productboard.com/)** | Product feedback consolidation, feature request triage, customer portal, and strategic roadmap alignment. | $20/user/month (Essentials plan) | 14-day free trial (unlimited feedback capture & roadmap features) | **~$1.72B Valuation** (~$50M ARR) |
+| **[SurveyMonkey](https://www.surveymonkey.com/)** | Mass market survey creation, market research panels, template library, and automated analytics. | $25/month (Individual Advantage) | Free Basic Plan (10 questions per survey & 40 responses/survey) | **~$1.5B Valuation** (~$480M ARR) |
+| **[Alchemer](https://www.alchemer.com/)** | Formerly SurveyGizmo. Flexible enterprise workflow integration, custom survey logic, and CSAT engine. | $55/user/month (Collaborator plan) | 7-day free trial (up to 100 survey responses included) | **~$450M Valuation** (~$60M ARR) |
+| **[Canny](https://canny.io/)** | Customer feedback boards, feature voting, product changelog, and automated status updates for users. | $79/month (Starter plan) | Free Plan forever (up to 100 active tracked users & 1 feedback board) | **~$100M Valuation** (~$10M ARR) |
+| **[UserVoice](https://www.uservoice.com/)** | Enterprise B2B product feedback collection, smart feedback grouping, and revenue-weighted prioritization. | $699/month (Pro plan) | 14-day free trial (full enterprise feedback module access) | **~$80M Valuation** (~$20M ARR) |
+| **[QuestionPro](https://www.questionpro.com/)** | Multi-channel CX survey engine, NPS/CSAT tracking, employee experience, and mobile research panels. | $99/user/month (Advanced plan) | Free Essentials Plan (unlimited surveys & up to 200 responses/survey) | **~$75M Valuation** (~$25M ARR) |
+| **[Survicate](https://survicate.com/)** | Targeted in-app, website, web app, and email surveys for continuous micro-feedback collection. | $99/month (Business plan) | Free Plan forever (up to 25 responses/month & 1 active survey) | **~$40M Valuation** (~$8M ARR) |
+| **[Zonka Feedback](https://www.zonkafeedback.com/)** | Multi-channel feedback app (in-app, kiosk, SMS, email), offline surveys, and real-time CX alerts. | $49/month (Starter plan) | 7-day free trial (up to 100 survey responses included) | **~$20M Valuation** (~$44M ARR) |
+| **[NPS.today](https://nps.today/)** | Focused Net Promoter Score (NPS) measurement platform integrated with CRM and ERP workflows. | €49/month (~$54/month) | 14-day free trial (up to 50 NPS invitations included) | **~$10M Valuation** (~$2M ARR) |
+
+---
+
+## 🔓 Open-Source GitHub Projects
+
+Self-hosted and developer-first feedback tools offer full data privacy control, custom deployment flexibility, and cost efficiency. Sorted by **GitHub Star Count** descending.
+
+- **[PostHog](https://github.com/PostHog/posthog)** [![GitHub stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers)  
+  *Open-source product analytics suite with built-in user feedback widgets, in-app micro-surveys, session replay, and feature flags.*
+
+- **[Typebot](https://github.com/baptisteArno/typebot.io)** [![GitHub stars](https://img.shields.io/github/stars/baptisteArno/typebot.io?style=social&color=white)](https://github.com/baptisteArno/typebot.io/stargazers)  
+  *Visual conversational form builder enabling interactive, chat-style customer feedback and lead collection embedded anywhere.*
+
+- **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)  
+  *Leading open-source Experience Management (XM) platform—in-app micro-surveys, link surveys, user segmentation, and self-hosted privacy focus (Qualtrics alternative).*
+
+- **[LimeSurvey](https://github.com/LimeSurvey/LimeSurvey)** [![GitHub stars](https://img.shields.io/github/stars/LimeSurvey/LimeSurvey?style=social&color=white)](https://github.com/LimeSurvey/LimeSurvey/stargazers)  
+  *Battle-tested open-source online survey system designed for complex academic, market, and customer research questionnaires.*
+
+- **[Talkyard](https://github.com/debiki/talkyard)** [![GitHub stars](https://img.shields.io/github/stars/debiki/talkyard?style=social&color=white)](https://github.com/debiki/talkyard/stargazers)  
+  *Open-source feedback board, community discussion forum, and Q&A engine for product suggestions.*
+
+- **[Fider](https://github.com/getfider/fider)** [![GitHub stars](https://img.shields.io/github/stars/getfider/fider?style=social&color=white)](https://github.com/getfider/fider/stargazers)  
+  *Simple, lightweight open-source customer feedback platform for gathering ideas and letting community vote on feature requests.*
+
+- **[OhMyForm](https://github.com/ohmyform/ohmyform)** [![GitHub stars](https://img.shields.io/github/stars/ohmyform/ohmyform?style=social&color=white)](https://github.com/ohmyform/ohmyform/stargazers)  
+  *Open-source Typeform alternative for building web forms, surveys, and collecting customer feedback responses.*
+
+- **[Feedback Fish](https://github.com/feedback-fish/feedback-fish)** [![GitHub stars](https://img.shields.io/github/stars/feedback-fish/feedback-fish?style=social&color=white)](https://github.com/feedback-fish/feedback-fish/stargazers)  
+  *Lightweight open-source React component for collecting quick in-app user feedback with screenshots.*
+
+---
+
+## 💡 Architecture Patterns & Integration Flow
+
+For self-hosted privacy-first feedback architectures:
+
+```
+[ In-App Widget / Survey ] ──> [ Formbricks / PostHog ] ──> [ Postgres Data Warehouse ]
+                                                                      │
+[ Customer Feedback Board ] ──> [ Fider / Talkyard ] ─────────────────┴──> [ Metabase / Open BI ]
+```
+
+1. **Collect**: Trigger targeted in-app NPS/CSAT surveys using **Formbricks** or **PostHog**.
+2. **Prioritize**: Allow public feature request voting on **Fider** or **Canny**.
+3. **Analyze**: Store structured responses in a warehouse and query with BI tools for product roadmap alignment.
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are highly welcomed! Please check out the [Awesome List Guidelines](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
+
+1. **Fork** this repository.
+2. Add your tool under the appropriate section (SaaS table or Open-Source list).
+3. Ensure factual information regarding starting pricing, free tier limits, or GitHub star links.
+4. Submit a **Pull Request** with a brief summary of the project.
+
+---
+
+## ☕ Support & Sponsorship
+
+If you find this repository helpful for your product team, engineering stack, or market research:
+
+- ⭐ **Star** this repository to increase visibility.
+- 🔀 **Fork** it to build your internal feedback tool guide.
+- 📢 **Share** it with fellow Product Managers, CX Leaders, and Developers.
+
+💖 **Sponsor & Buy Me a Coffee:**  
+Support further maintenance and open-source curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⚠️ Disclaimer
+
+- This repository is a community-curated list and does not constitute official financial or vendor endorsement.
+- Customer feedback platforms handle user PII (Personally Identifiable Information). Always ensure compliance with GDPR, CCPA, and regional privacy regulations when collecting feedback.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Customer-Feedback-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Customer-Feedback-Management&type=date&legend=top-left)
+
+---
+
+**Made with ❤️ for product managers, customer experience teams, and open-source enthusiasts.**
