@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Customer-Feedback-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Customer-Feedback-Management?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Customer-Feedback-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Customer-Feedback-Management?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Customer-Feedback-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Customer-Feedback-Management?style=flat-square&color=blue" alt="GitHub Forks"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Customer-Feedback-Management/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Customer-Feedback-Management?style=flat-square" alt="License"/></a>
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -63,30 +63,30 @@ The table below summarizes leading commercial platforms, sorted by **Company Siz
 
 ## 🔓 Open-Source GitHub Projects
 
-Self-hosted and developer-first feedback tools offer full data privacy control, custom deployment flexibility, and cost efficiency. Sorted by **GitHub Star Count** descending.
+Self-hosted and developer-first feedback tools offer full data privacy control, custom deployment flexibility, and cost efficiency. Sorted by **GitHub Stars_Count** descending.
 
-- **[PostHog](https://github.com/PostHog/posthog)** [![GitHub stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers)  
+- **[PostHog](https://github.com/PostHog/posthog)** [![GitHub_Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers)  
   *Open-source product analytics suite with built-in user feedback widgets, in-app micro-surveys, session replay, and feature flags.*
 
-- **[Typebot](https://github.com/baptisteArno/typebot.io)** [![GitHub stars](https://img.shields.io/github/stars/baptisteArno/typebot.io?style=social&color=white)](https://github.com/baptisteArno/typebot.io/stargazers)  
+- **[Typebot](https://github.com/baptisteArno/typebot.io)** [![GitHub_Stars](https://img.shields.io/github/stars/baptisteArno/typebot.io?style=social&color=white)](https://github.com/baptisteArno/typebot.io/stargazers)  
   *Visual conversational form builder enabling interactive, chat-style customer feedback and lead collection embedded anywhere.*
 
-- **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)  
+- **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub_Stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)  
   *Leading open-source Experience Management (XM) platform—in-app micro-surveys, link surveys, user segmentation, and self-hosted privacy focus (Qualtrics alternative).*
 
-- **[LimeSurvey](https://github.com/LimeSurvey/LimeSurvey)** [![GitHub stars](https://img.shields.io/github/stars/LimeSurvey/LimeSurvey?style=social&color=white)](https://github.com/LimeSurvey/LimeSurvey/stargazers)  
+- **[LimeSurvey](https://github.com/LimeSurvey/LimeSurvey)** [![GitHub_Stars](https://img.shields.io/github/stars/LimeSurvey/LimeSurvey?style=social&color=white)](https://github.com/LimeSurvey/LimeSurvey/stargazers)  
   *Battle-tested open-source online survey system designed for complex academic, market, and customer research questionnaires.*
 
-- **[Talkyard](https://github.com/debiki/talkyard)** [![GitHub stars](https://img.shields.io/github/stars/debiki/talkyard?style=social&color=white)](https://github.com/debiki/talkyard/stargazers)  
+- **[Talkyard](https://github.com/debiki/talkyard)** [![GitHub_Stars](https://img.shields.io/github/stars/debiki/talkyard?style=social&color=white)](https://github.com/debiki/talkyard/stargazers)  
   *Open-source feedback board, community discussion forum, and Q&A engine for product suggestions.*
 
-- **[Fider](https://github.com/getfider/fider)** [![GitHub stars](https://img.shields.io/github/stars/getfider/fider?style=social&color=white)](https://github.com/getfider/fider/stargazers)  
+- **[Fider](https://github.com/getfider/fider)** [![GitHub_Stars](https://img.shields.io/github/stars/getfider/fider?style=social&color=white)](https://github.com/getfider/fider/stargazers)  
   *Simple, lightweight open-source customer feedback platform for gathering ideas and letting community vote on feature requests.*
 
-- **[OhMyForm](https://github.com/ohmyform/ohmyform)** [![GitHub stars](https://img.shields.io/github/stars/ohmyform/ohmyform?style=social&color=white)](https://github.com/ohmyform/ohmyform/stargazers)  
+- **[OhMyForm](https://github.com/ohmyform/ohmyform)** [![GitHub_Stars](https://img.shields.io/github/stars/ohmyform/ohmyform?style=social&color=white)](https://github.com/ohmyform/ohmyform/stargazers)  
   *Open-source Typeform alternative for building web forms, surveys, and collecting customer feedback responses.*
 
-- **[Feedback Fish](https://github.com/feedback-fish/feedback-fish)** [![GitHub stars](https://img.shields.io/github/stars/feedback-fish/feedback-fish?style=social&color=white)](https://github.com/feedback-fish/feedback-fish/stargazers)  
+- **[Feedback Fish](https://github.com/feedback-fish/feedback-fish)** [![GitHub_Stars](https://img.shields.io/github/stars/feedback-fish/feedback-fish?style=social&color=white)](https://github.com/feedback-fish/feedback-fish/stargazers)  
   *Lightweight open-source React component for collecting quick in-app user feedback with screenshots.*
 
 ---
