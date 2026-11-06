@@ -58,6 +58,7 @@ The table below summarizes leading commercial platforms, sorted by **Company Siz
 | **[Survicate](https://survicate.com/)** | Targeted in-app, website, web app, and email surveys for continuous micro-feedback collection. | $99/month (Business plan) | Free Plan forever (up to 25 responses/month & 1 active survey) | **~$40M Valuation** (~$8M ARR) |
 | **[Zonka Feedback](https://www.zonkafeedback.com/)** | Multi-channel feedback app (in-app, kiosk, SMS, email), offline surveys, and real-time CX alerts. | $49/month (Starter plan) | 7-day free trial (up to 100 survey responses included) | **~$20M Valuation** (~$44M ARR) |
 | **[NPS.today](https://nps.today/)** | Focused Net Promoter Score (NPS) measurement platform integrated with CRM and ERP workflows. | €49/month (~$54/month) | 14-day free trial (up to 50 NPS invitations included) | **~$10M Valuation** (~$2M ARR) |
+| **[More Good Reviews](https://moregoodreviews.com)** | AI reputation/review management for local businesses and agencies: timed email/SMS review requests, branded review pages, Google/Facebook sync & AI replies, widgets/Showcase, Project/Agency API and MCP. | Business from $59/location/month; Agency $99/month | 7-day free trial (no free plan) | **Bootstrapped** (founded 2022, NYC) |
 
 ---
 
